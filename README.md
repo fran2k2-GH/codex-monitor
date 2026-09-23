@@ -4,6 +4,20 @@ Utilidad local y portable para Windows que muestra en el **System Tray** el esta
 
 > **Unofficial community project.** Codex Monitor is a small Windows tray utility for viewing Codex usage limits locally. It is not affiliated with, endorsed by, or maintained by OpenAI. The current UI is in Spanish.
 
+## Vista
+
+### Menú principal
+
+<p align="center">
+  <img src="assets/screenshots/codex-monitor-menu.png" alt="Menú principal de Codex Monitor" width="280">
+</p>
+
+### Vista rápida en la bandeja del sistema
+
+<p align="center">
+  <img src="assets/screenshots/codex-monitor-tray-tooltip.png" alt="Codex Monitor en la bandeja del sistema de Windows" width="360">
+</p>
+
 ## Qué hace
 
 - Muestra el porcentaje restante del límite de 5 horas y del límite semanal.
