@@ -1,0 +1,7 @@
+*.log
+*.tmp
+*.sqlite
+*.db
+*.jsonl
+*.lnk
+codex-monitor-sqlite-*/
